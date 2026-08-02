@@ -1,5 +1,9 @@
 # Impeccable
 
+> **📎 Mirror notice.** This is a public mirror maintained by [Oraclep-World](https://github.com/Oraclep-World) for study and archival.
+> Original project by **Paul Bakaus** ([@pbakaus](https://github.com/pbakaus)) — source of truth: <https://github.com/pbakaus/impeccable> · site: [impeccable.style](https://impeccable.style).
+> All credit to the original author. Licensed under Apache-2.0 (see [`LICENSE`](LICENSE) and [`NOTICE.md`](NOTICE.md)).
+
 Design guidance for AI coding agents. 1 skill, 23 commands, live browser iteration, and 59 deterministic detector rules for AI-generated frontend design.
 
 > **Quick start:** From your project root, run `npx impeccable install`, then run `/impeccable init` inside your AI coding tool. Full docs: [impeccable.style](https://impeccable.style).
